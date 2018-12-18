@@ -1,0 +1,30 @@
+
+
+.squares {
+	background-color:rgba(0,0,0,0);
+	width: 8%;
+	height:11%;
+	border:2px solid black;
+}
+
+.squares-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	height: 49%;
+	width: 35%;
+
+
+}
+
+.site-content {
+	display: flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items:center;
+	align-content: space-between;
+}
+
+button {
+	position: relative;
+	top:100px;
+}
